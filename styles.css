@@ -1,1 +1,17 @@
 
+.courses{
+  
+    background-color: gray;
+}
+.programs{
+    background-color: aqua;
+}
+.first-box{
+    margin-bottom: 10px;;
+    border: solid;
+    height: 100px;
+}
+.second-box{
+    border: solid;
+    height: 100px;
+}
