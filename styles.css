@@ -1,25 +1,11 @@
-
+body{
+    margin-left: 35px;
+}
 .courses{
   
     background-color: gray;
 }
-.programs{
-    background-color: aqua;
-}
-.first-box{
-    margin-bottom: 10px;;
-    border: solid;
-    height: 100px;
-}
-.second-box{
-    border: solid;
-    height: 100px;
-    
-}
-.paragraph-1{
-    font-size: x-small;
-    
-}
+
 
 .r1{
     flex-wrap: nowrap;
@@ -30,4 +16,8 @@
 }
 .r3{
     flex-wrap: nowrap;
+}
+.offered-courses{
+    padding-top: 40px;
+    background-color: lightgrey;
 }
