@@ -5,10 +5,23 @@ body{
     background-color: rgb(75, 68, 171);
     
 }
+.lst1{
+    
+    color:white;
+    list-style: none;
 
+}
+.li1{
+    font-size: 45px;
+   
+}
+.li2{
+    color: gray;
+
+}
 .courses{
   
-    background-color: gray;
+    background-color: rgb(244, 238, 238);
 }
 .hdimg{
     height:25px;
@@ -70,6 +83,7 @@ button{
     margin-top: 20px;
     font-size: xx-small;
 
+
 }
 .bts1{
     background-color: rgb(129, 217, 129);
@@ -82,4 +96,7 @@ button{
 }
 .itm1{
     font-size: 30px;
+}
+.bts{
+    padding-left: 40px;
 }
