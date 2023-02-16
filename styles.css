@@ -2,8 +2,10 @@ body{
     margin-left: 35px;
 }
 .jumbotron{
-    background-color: purple;
+    background-color: rgb(75, 68, 171);
+    
 }
+
 .courses{
   
     background-color: gray;
