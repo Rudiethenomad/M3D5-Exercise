@@ -8,20 +8,25 @@ body{
 
 
 .r1{
-    flex-wrap: nowrap;
+  
     padding-bottom: 100px;
+    gap: 20px;
+    
 }
 
 .r2{
-    flex-wrap: nowrap;
+  
     padding-bottom: 100px;
+    gap: 20px;
 }
 .r3{
-    flex-wrap: nowrap;
+ 
     padding-bottom: 100px;
+    gap: 20px;
 }
 .offered-courses{
     padding-top: 40px;
+    padding-left: 100px;
     background-color: lightgrey;
 }
 .brag{
@@ -29,4 +34,8 @@ body{
 }
 .sec-one{
     padding-bottom: 25px;
+}
+.card{
+    border-radius: 20px;
+    
 }
