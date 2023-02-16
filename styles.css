@@ -1,11 +1,16 @@
 body{
     margin-left: 35px;
 }
+.jumbotron{
+    background-color: purple;
+}
 .courses{
   
     background-color: gray;
 }
-
+.hdimg{
+    height:25px;
+}
 
 .r1{
   
@@ -39,6 +44,7 @@ body{
 .card{
     border-radius: 20px;
     width: 500px;
+   
     
 }
 img{
@@ -49,4 +55,29 @@ img{
 .card-header{
     padding: 0;
     
+}
+h5{
+    color:black;
+}
+p{
+    color:black;
+}
+button{
+    width: 100px;
+    height: 30px;
+    margin-top: 20px;
+    font-size: xx-small;
+
+}
+.bts1{
+    background-color: rgb(129, 217, 129);
+    border: transparent;
+    color:white;
+}
+.bts2{
+    background-color: white;
+    border: transparent;
+}
+.itm1{
+    font-size: 30px;
 }
