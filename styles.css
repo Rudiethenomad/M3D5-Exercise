@@ -39,4 +39,14 @@ body{
 .card{
     border-radius: 20px;
     width: 500px;
+    
+}
+img{
+    width: 18rem;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+.card-header{
+    padding: 0;
+    
 }
