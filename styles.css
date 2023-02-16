@@ -15,18 +15,17 @@ body{
 }
 
 .r2{
-  
+    
     padding-bottom: 100px;
     gap: 20px;
 }
 .r3{
- 
+  
     padding-bottom: 100px;
     gap: 20px;
 }
 .offered-courses{
     padding-top: 40px;
-    padding-left: 100px;
     background-color: lightgrey;
 }
 .brag{
@@ -37,5 +36,5 @@ body{
 }
 .card{
     border-radius: 20px;
-    
+    width: 500px;
 }
